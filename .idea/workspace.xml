@@ -5,27 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78835835-3b26-4a76-821d-cb4c04a95a1a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/competition/ProblemStatement.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/competition/ProblemStatement.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/jotai/competitionAtoms.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/jotai/competitionAtoms.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/context/CompetitionContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/CompetitionContext.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CompetitionCreatePage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CompetitionCreatePage.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/CompetitionResultsPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/CompetitionResultsPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="41" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AnriHasani"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AnriHasani/algorace",
+    "accountId": "f6d7f932-79d4-4123-8c9a-5e16913b774d"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
@@ -92,5 +104,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
