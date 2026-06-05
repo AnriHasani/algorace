@@ -2,8 +2,6 @@
 
 AlgoRace is a dynamic programming competition platform where speed meets intelligence. Participants compete in real-time to solve algorithmic challenges, which are instantly evaluated and scored by an **AI Judge** powered by Google Gemini 2.0 Flash.
 
-![AlgoRace Banner](https://via.placeholder.com/1200x400?text=AlgoRace+-+AI+Powered+Coding+Competitions)
-
 ## 🌟 Key Features
 
 - **🏆 Real-time Competitions:** Create and join rooms to compete with others instantly.
@@ -87,20 +85,13 @@ By default:
 - Frontend will be available at `http://localhost:5173` (during dev) or served via `http://localhost:3000` (after build).
 - Backend runs on `http://localhost:3000`.
 
-## 📸 Screenshots
+## 👥 Contributors
 
-| Home Page | Competition Lobby |
-| :---: | :---: |
-| ![Home](https://via.placeholder.com/400x250?text=Home+Page) | ![Lobby](https://via.placeholder.com/400x250?text=Lobby) |
-
-| Coding Environment | Results Table |
-| :---: | :---: |
-| ![Editor](https://via.placeholder.com/400x250?text=Code+Editor) | ![Results](https://via.placeholder.com/400x250?text=Leaderboard) |
+- [AnriHasani](https://github.com/AnriHasani)
+- [Dora Demiri](https://github.com/dora-demiri)
 
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-Built with ❤️ by [AnriHasani](https://github.com/AnriHasani)
